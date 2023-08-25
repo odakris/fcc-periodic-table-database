@@ -8,7 +8,7 @@
 
 This is a interactive bash programm `( salon.sh )` that return informations about a specific element such as his `type`, `atomic mass`, `melting point temperature` or `boiling point temperature`.
 
-Either a `name`, a `symbol` or a `element number` needs to be provided while running the script like:
+Either a `name`, a `symbol` or an `element number` needs to be provided while running the script like:
 
 ```
 ./element.sh Carbon
